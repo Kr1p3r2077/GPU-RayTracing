@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssimpNet" Version="4.1.0" />
+    <PackageReference Include="OpenTK.Mathematics" Version="4.8.0" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Cloo">
+      <HintPath>D:\Загрузки\OpenCLTemplate-master\OpenCLTemplate-master\OpenCLTemplate\bin\Debug\Cloo.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCLTemplate">
+      <HintPath>D:\Загрузки\OpenCLTemplate-master\OpenCLTemplate-master\OpenCLTemplate\bin\Debug\OpenCLTemplate.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
