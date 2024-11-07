@@ -1,0 +1,9 @@
+model
+{
+    path: sasa.obj
+    pos: 13 0 2.5
+    size: 2.5 2.5 2.5
+    roughness: 0.99
+    texture: image.png
+    material: Diffuse
+}

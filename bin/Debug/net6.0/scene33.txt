@@ -1,0 +1,7 @@
+sphere
+{
+    color: 255 200 255
+    pos: 10 0 3
+    radius: 2.1
+    roughness: 0.99
+}

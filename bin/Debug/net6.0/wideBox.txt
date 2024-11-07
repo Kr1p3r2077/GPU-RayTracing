@@ -1,0 +1,62 @@
+cube
+{
+    pos: 10 -15 5
+    size: 20 0.2 5
+    color: 0 255 0
+    roughness: 0.99
+    material: Diffuse
+}
+
+cube
+{
+    pos: 10 15 5
+    size: 20 0.2 5
+    color: 255 0 0
+    roughness: 0.99
+    material: Diffuse
+}
+
+cube
+{
+    pos: 10 0 0
+    size: 20 15 0.2
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}
+
+cube
+{
+    pos: 10 0 10
+    size: 20 15 0.2
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}
+
+cube
+{
+    pos: 10 0 10
+    size: 3 13 0.201
+    color: 255 255 255
+    power: 2
+    material: Lamp
+}
+
+cube
+{
+    pos: 15 0 5
+    size: 0.5 15 5
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}
+
+cube
+{
+    pos: -10 0 5
+    size: 0.5 15 5
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}

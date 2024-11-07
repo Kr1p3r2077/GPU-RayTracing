@@ -1,0 +1,15 @@
+sphere
+{
+    pos: 8 1 4
+    color: 255 255 255
+    radius: 1.5
+    material: Glass
+}
+
+cube
+{
+    pos: 13 0 2
+    size: 1.3 1.3 1.3
+    color: 255 0 255
+    material: Diffuse
+}

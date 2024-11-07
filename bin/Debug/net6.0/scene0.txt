@@ -1,0 +1,27 @@
+cube
+{
+    pos: 9 -2.3 -4
+    size: 1 1 1
+    color: 255 0 255
+    roughness: 0.5
+    material: Diffuse
+}
+
+cube
+{
+    pos: 10 3 -3.5
+    size: 1.5 1.5 1.5
+    color: 0 255 255
+    roughness: 0.99999
+    material: Diffuse
+}
+
+
+sphere
+{
+    pos: 9 0 -4
+    radius: 1.2
+    color: 255 255 255
+    roughness: 0
+    material: Diffuse
+}
