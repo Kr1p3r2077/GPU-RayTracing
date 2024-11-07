@@ -1,0 +1,39 @@
+model
+{
+    pos: 0 0 0
+    size: 1 1 1
+    color: 255 255 255
+    path: kornel1.obj
+    roughness: 0.91
+    material: Diffuse
+}
+
+model
+{
+    pos: 0 0 0
+    size: 1 1 1
+    color: 0 255 0
+    path: kornel2.obj
+    roughness: 0.91
+    material: Diffuse
+}
+
+model
+{
+    pos: 0 0 0
+    size: 1 1 1
+    color: 255 0 0
+    path: kornel3.obj
+    roughness: 0.91
+    material: Diffuse
+}
+
+model
+{
+    pos: -1 0 0.06
+    size: 1 1 1
+    color: 255 255 255
+    path: kornel4.obj
+    power: 2.5
+    material: Lamp
+}

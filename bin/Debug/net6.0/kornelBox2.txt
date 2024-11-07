@@ -1,0 +1,68 @@
+model
+{
+    path: zplane.obj
+    pos: 5 -5 0
+    size: 5 5 5
+    color: 0 255 0
+    roughness: 0.99
+    material: Diffuse
+}
+
+model
+{
+    path: z-plane.obj
+    pos: 5 5 0
+    size: 5 5 5
+    color: 255 0 0
+    roughness: 0.99
+    material: Diffuse
+}
+
+model
+{
+    path: yplane.obj
+    pos: 5 0 -5
+    size: 5 5 5
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}
+
+model
+{
+    path: y-plane.obj
+    pos: 5 0 5
+    size: 5 5 5
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}
+
+cube
+{
+    pos: 5 0 5
+    size: 3 3 0.201
+    color: 255 255 255
+    power: 3
+    material: Lamp
+}
+
+model
+{
+    path: x-plane.obj
+    pos: 10 0 0
+    size: 5 5 5
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}
+
+model
+{
+    path: xplane.obj
+    pos: -5 0 0
+    size: 5 5 5
+    color: 255 255 255
+    roughness: 0.99
+    material: Diffuse
+}

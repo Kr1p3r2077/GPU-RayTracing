@@ -1,0 +1,44 @@
+sphere
+{
+    pos: 12 -10 2
+    radius: 2
+    color: 255 255 255
+    roughness: 0
+    material: Diffuse
+}
+
+sphere
+{
+    pos: 12 -5 2
+    radius: 2
+    color: 255 255 255
+    roughness: 0.2
+    material: Diffuse
+}
+
+sphere
+{
+    pos: 12 0 2
+    radius: 2
+    color: 255 255 255
+    roughness: 0.4
+    material: Diffuse
+}
+
+sphere
+{
+    pos: 12 5 2
+    radius: 2
+    color: 255 255 255
+    roughness: 0.6
+    material: Diffuse
+}
+
+sphere
+{
+    pos: 12 10 2
+    radius: 2
+    color: 255 255 255
+    roughness: 0.9999
+    material: Diffuse
+}
