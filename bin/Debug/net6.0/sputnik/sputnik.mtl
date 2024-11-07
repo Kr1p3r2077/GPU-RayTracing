@@ -1,0 +1,13 @@
+# Blender MTL File: 'sputnikV.blend'
+# Material Count: 1
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.507069 0.507069 0.507069
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd D:\\Загрузки\\sputnik-1\\textures\\sputnik_ao.png

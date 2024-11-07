@@ -1,0 +1,24 @@
+model
+{
+    path: sputnik/light1.obj
+    color: 204 205 252
+    pos: -1 -0.9 0
+    power: 5
+    material: Lamp
+}
+
+model
+{
+    path: sputnik/light2.obj
+    pos: 0 1.2 0
+    color: 255 255 255
+    material: Lamp
+}
+
+model
+{
+    path: sputnik/sputnik.obj
+    size: 1.4 1.4 1.4
+    color: 255 255 255
+    roughness: 0.7
+}
